@@ -1,4 +1,4 @@
-# e
+# learn first time
 import matplotlib.pylab as plt
 
 
